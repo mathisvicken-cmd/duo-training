@@ -1,0 +1,14 @@
+{
+  "name": "Duo Training",
+  "short_name": "Duo",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#edf0ec",
+  "theme_color": "#edf0ec",
+  "lang": "fr",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
